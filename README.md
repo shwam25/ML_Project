@@ -12,5 +12,9 @@ Data Sources: https://www.kaggle.com/vinicius150987/ice-cream-revenue/data#
 Technologies
 ---------------
 Python Pandas 
+
 Python Matplotlib
-Machine Learning Model
+
+Machine Learning [Random Forest Regression]
+
+Deep Learning [Neural Network - Keras Regression]
