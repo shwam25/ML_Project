@@ -1,0 +1,25 @@
+Team: Radha, Shweta, Sequoyah, Mathew
+------
+
+Objective: 
+----------------
+
+(a) Analyse ice-cream consumption and daily revenue in dollars based on the temperature.
+(b) Create a model that could predict the ice-cream daily revenue in dollars based on the temperature.
+
+
+DataSets
+---------
+Data Sources: https://www.kaggle.com/vinicius150987/ice-cream-revenue/data#
+              https://www.kaggle.com/ronaldocr9803/icecream-consumption-usa
+
+
+Technologies
+---------------
+Python Pandas 
+Python Matplotlib
+Machine Learning Model - Random Forest Regression
+Deep Learning Model - Neural Networks (Keras) Regression
+
+
+   
