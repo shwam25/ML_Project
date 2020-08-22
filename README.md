@@ -23,3 +23,17 @@ Python Matplotlib
 Machine Learning Model - Random Forest Regression
 
 Deep Learning Model - Neural Networks (Keras) Regression
+
+
+Summary
+-------------
+1.Models - Neural Network (Keras) Regression provides predictive model with greater accuracy.
+
+2.Revenue and Temperature: As per our graphs, Revenue and Temperature are very strongly positive correlated.
+
+3.Temperature and Consumption: 
+
+(a)Summer months [June - August] - Highest Consumption
+
+(b)Winter months [December - February] - Lowest Consumption
+
